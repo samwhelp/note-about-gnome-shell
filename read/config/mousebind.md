@@ -65,8 +65,18 @@ parent: 設定
 | `Win + [滑鼠滾輪向下捲動]`  | 切換到下一個工作空間  |
 
 
+
+
 ## 相關連結
 
 | 相關連結 |
 | ------- |
 | System Modeling / [滑鼠按鍵組合](https://samwhelp.github.io/system-modeling/read/zh_tw/spec-mousebind-common) |
+
+
+## 相關議題
+
+| 相關議題 |
+| ------- |
+| [設定 Mouse Button Modifier](https://samwhelp.github.io/note-about-gnome-shell/read/howto/config-mouse-button-modifier.html) |
+| [停用按鍵綁定「Super_L」開啟「Overlay」](https://samwhelp.github.io/note-about-gnome-shell/read/howto/disable-keybind-open-overlay.html) |
