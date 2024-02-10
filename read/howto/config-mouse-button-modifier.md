@@ -49,8 +49,10 @@ gsettings set org.gnome.mutter overlay-key ''
 
 ## 相關議題
 
-* [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-gnome-shell/read/config/mousebind.html#視窗內容區塊)
-* [停用按鍵綁定「Super_L」開啟「Overlay」](https://samwhelp.github.io/note-about-gnome-shell/read/howto/disable-keybind-open-overlay.html)
+| 相關議題 |
+| ------- |
+| [滑鼠按鍵綁定](https://samwhelp.github.io/note-about-gnome-shell/read/config/mousebind.html#視窗內容區塊) |
+| [停用按鍵綁定「Super_L」開啟「Overlay」](https://samwhelp.github.io/note-about-gnome-shell/read/howto/disable-keybind-open-overlay.html) |
 
 
 ## 相關應用
