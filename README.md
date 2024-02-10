@@ -25,5 +25,6 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
+| [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
 | [Gnome Flashback 探索筆記](https://samwhelp.github.io/note-about-gnome-flashback/) | [GitHub](https://github.com/samwhelp/note-about-gnome-flashback) |
 | [Budgie Desktop 探索筆記](https://samwhelp.github.io/note-about-budgie/) | [GitHub](https://github.com/samwhelp/note-about-budgie) |
