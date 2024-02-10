@@ -29,7 +29,7 @@
 
 ## 如何
 
-| [如何](https://samwhelp.github.io/note-about-mate/read/howto.html) |
+| [如何](https://samwhelp.github.io/note-about-gnome-shell/read/howto.html) |
 | ------- |
 | [設定 Mouse Button Modifier](https://samwhelp.github.io/note-about-gnome-shell/read/howto/config-mouse-button-modifier.html) |
 | [停用按鍵綁定「Super_L」開啟「Overlay」](https://samwhelp.github.io/note-about-gnome-shell/read/howto/disable-keybind-open-overlay.html) |
