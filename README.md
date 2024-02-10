@@ -8,6 +8,8 @@
 | [Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-gnome-shell) |
 
 
+
+
 ## Subject
 
 * [按鍵綁定](#按鍵綁定)
