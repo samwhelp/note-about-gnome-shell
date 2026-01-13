@@ -13,6 +13,7 @@
 ## Subject
 
 * [微調腳本](#微調腳本)
+* [相關資源](#相關資源)
 * [按鍵綁定](#按鍵綁定)
 * [如何](#如何)
 * [相關筆記](#相關筆記)
@@ -25,6 +26,15 @@
 | 微調腳本 |
 | ------- |
 | [簡易微調](https://github.com/samwhelp/gnome-shell-adjustment/tree/main/demo/scripts/main/gnome-shell-adjustment) |
+
+
+
+
+## 相關資源
+
+| Gnome Shell Resource |
+| -------------------- |
+| [gnome-shell-enhance](https://github.com/samwhelp/gnome-shell-enhance) |
 
 
 
