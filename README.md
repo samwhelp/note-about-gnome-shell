@@ -54,6 +54,14 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Pardus Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-pardus-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-pardus-gnome-shell) |
+| [AnduinOS Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-anduinos-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-anduinos-gnome-shell) |
+| [BrgvOS Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-brgvos-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-brgvos-gnome-shell) |
+
+
+
+
+| Link | GitHub |
+| ---- | ------ |
 | [Debian Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-debian-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-debian-gnome-shell) |
 | [Ubuntu Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-ubuntu-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-gnome-shell) |
 | [Fedora Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-fedora-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-fedora-gnome-shell) |
