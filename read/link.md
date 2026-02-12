@@ -10,9 +10,40 @@ has_children: false
 
 ## Gnome Shell
 
+| GitLab |
+| ------ |
+| [gnome-shell](https://gitlab.gnome.org/GNOME/gnome-shell) |
+| [gnome-shell-extensions](https://gitlab.gnome.org/GNOME/gnome-shell-extensions) |
+
+
+| GitHub |
+| ------ |
+| [gnome-shell](https://github.com/GNOME/gnome-shell) |
+| [gnome-shell-extensions](https://github.com/GNOME/gnome-shell-extensions) |
+
+
+
+
+## Gnome Shell Extension
+
 | Link |
 | ---- |
-|  |
+| [Gnome Shell Extensions](https://extensions.gnome.org/) |
+
+
+| Link |
+| ---- |
+| [gnome-shell-enhance](https://github.com/samwhelp/gnome-shell-enhance) |
+
+
+
+
+## GJS
+
+| GJS |
+| --- |
+| [https://gjs.guide/](https://gjs.guide/) |
+| [https://gjs-docs.gnome.org/](https://gjs-docs.gnome.org/) |
 
 
 
