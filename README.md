@@ -45,6 +45,7 @@
 | Gnome Shell Resource |
 | -------------------- |
 | [gnome-shell-enhance](https://github.com/samwhelp/gnome-shell-enhance) |
+| [make-gnome-shell-style](https://samwhelp.github.io/make-gnome-shell-style/) | [GitHub](https://github.com/samwhelp/make-gnome-shell-style) |
 
 
 | Link | GitHub |
