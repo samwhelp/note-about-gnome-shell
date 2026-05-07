@@ -77,9 +77,9 @@
 | Build ISO |
 | --------- |
 | [ubuntu-iso-builder-include-pacstall-gnome-shell-layout-wincity](https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-gnome-shell-layout-wincity) |
-| [ubuntu-iso-builder-include-pacstall-gnome-shell-layout-maccity]https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-gnome-shell-layout-maccity) |
+| [ubuntu-iso-builder-include-pacstall-gnome-shell-layout-maccity](https://github.com/samwhelp/ubuntu-iso-builder-include-pacstall-gnome-shell-layout-maccity) |
 | [debian-iso-builder-include-pacstall-gnome-shell-layout-wincity](https://github.com/samwhelp/debian-iso-builder-include-pacstall-gnome-shell-layout-wincity) |
-| [debian-iso-builder-include-pacstall-gnome-shell-layout-maccity]https://github.com/samwhelp/debian-iso-builder-include-pacstall-gnome-shell-layout-maccity) |
+| [debian-iso-builder-include-pacstall-gnome-shell-layout-maccity](https://github.com/samwhelp/debian-iso-builder-include-pacstall-gnome-shell-layout-maccity) |
 | [voidlinux-live-build-config-respin-gnome-shell-layout-wincity](https://github.com/samwhelp/voidlinux-live-build-config-respin-gnome-shell-layout-wincity) |
 | [voidlinux-live-build-config-respin-gnome-shell-layout-maccity](https://github.com/samwhelp/voidlinux-live-build-config-respin-gnome-shell-layout-maccity) |
 
